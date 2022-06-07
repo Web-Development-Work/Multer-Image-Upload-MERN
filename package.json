@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Sristi27/Stack-Hack-Project.git"
+    "url": ""
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Sristi27/Stack-Hack-Project/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/Sristi27/Stack-Hack-Project#readme",
+  "homepage": "",
   "dependencies": {
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
