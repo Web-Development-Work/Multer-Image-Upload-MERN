@@ -12,7 +12,7 @@ const hostname = '127.0.0.1';
 const PORT = process.env.PORT || 5000; // Step 1
 
 mongoose.connect(process.env.MONGODB_URI || 
-    "mongodb+srv://sristi27:Cr0EoTdUalbUHga0@cluster0.r2lu4.mongodb.net/users?retryWrites=true&w=majority",
+    "mongodb+srv://username:password@cluster0.r2lu4.mongodb.net/users?retryWrites=true&w=majority",
 { useNewUrlParser: true, useUnifiedTopology: true},
 (err) => {
     if (!err) {
